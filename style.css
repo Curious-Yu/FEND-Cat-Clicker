@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+img {
+  height: 500px;
+  width: 450px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 3px;
+}
+
+.hide {
+  display: none;
+}
