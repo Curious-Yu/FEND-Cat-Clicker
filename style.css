@@ -5,7 +5,17 @@ body {
 img {
   height: 500px;
   width: 450px;
-  border: 1px solid #ddd;
+  border: 2px solid orange;
   border-radius: 6px;
   padding: 3px;
+}
+
+#cat-list {
+  color: black;
+  text-shadow: 2px 2px gray;
+}
+
+h1, #cat-name, #cat-count {
+  color: black;
+  text-shadow: 2px 2px orange;
 }
