@@ -2,6 +2,11 @@ body {
   text-align: center;
 }
 
+ul {
+  text-decoration: none;
+  list-style: none;
+}
+
 img {
   height: 500px;
   width: 450px;
@@ -12,10 +17,10 @@ img {
 
 #cat-list {
   color: black;
-  text-shadow: 2px 2px gray;
+  text-shadow: 1px 2px gray;
 }
 
 h1, #cat-name, #cat-count {
   color: black;
-  text-shadow: 2px 2px orange;
+  text-shadow: 1px 2px orange;
 }
