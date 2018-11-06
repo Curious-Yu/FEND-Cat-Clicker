@@ -1,6 +1,10 @@
 # FEND-Cat-Clicker
 
-This project will record the change of a project over time.
+FEND Part 4.1 exercise. This is an exercise to practice the change of a project over time.
+
+# New Skill
+
+Learned using Model, Octopus, and View to organize the structure of the project.
 
 # Project Requirements for Cat Clicker
 
